@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 I'm Segergren</h1>
 <p align="center"><a href="https://github.com/Segergren" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ollesegergren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://segergren.dev/" target="_blank"><img alt="Porfolio" src="https://img.shields.io/badge/Porfolio-%2312100E.svg?&style=for-the-badge&logo=GitHubSponsors&logoColor=white"/></a>
 </p>
-<h3 align="center">Junior Software Developer @ Folksam<h3>
+<h3 align="center">Software Developer @ Folksam<h3>
   <p align="center">A Software developer with a big interest in programming, IT Security, and computer hardware. <br>I program a lot in my spare time and for Open Source projects like <a href="https://replays.app/" target="_blank">RePlays</a></p>
 
 <h3 align="center"> 💻 Some Github Stats </h2>
