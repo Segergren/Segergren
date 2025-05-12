@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/Segergren" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/olofsegergren/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://segergren.dev/" target="_blank"><img alt="Porfolio" src="https://img.shields.io/badge/Porfolio-%2312100E.svg?&style=for-the-badge&logo=GitHubSponsors&logoColor=white"/></a>
 </p>
 <h3 align="center">Software Developer @ Folksam<h3>
-  <p align="center">A Software developer with a big interest in programming, IT Security, and computer hardware. <br>I program a lot in my spare time and for Open Source projects like <a href="https://replays.app/" target="_blank">RePlays</a></p>
+  <p align="center">A Software developer with a big interest in programming, IT Security, and computer hardware. <br>I program a lot in my spare time and for Open Source projects like <a href="https://segra.tv" target="_blank">Segra</a></p>
 
 <h3 align="center"> 💻 Some Github Stats </h2>
 <!-- ![Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Segergren&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true)  ![Segergren's commit stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Segergren&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact) -->
