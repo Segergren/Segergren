@@ -4,14 +4,6 @@
 <h3 align="center">Software Developer<h3>
   <p align="center">A Software developer with a big interest in programming and computer hardware. <br>I program a lot in my spare time and for Open Source projects like <a href="https://segra.tv" target="_blank">Segra</a></p>
 
-<h3 align="center"> 💻 Some Github Stats </h2>
-<!-- ![Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Segergren&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true)  ![Segergren's commit stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Segergren&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact) -->
-<p align="center">
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Segergren&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true" />
-</a> -->
-</p>
-
 <!-- ### Places I've Worked ###
  [🏊 FORM Athletica](https://www.formswim.com/) and
  [📝 LedgerDocs](https://www.ledgerdocs.com/) -->
